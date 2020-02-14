@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/opitonSplash"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:background="@drawable/opition_list"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".AccountActivity.Option">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="295dp"
+            android:layout_height="275dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/firebase" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="215dp"
+            android:gravity="center"
+            android:text="Firebase"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/btnadla"
+            android:textColor="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="150dp"
+            android:background="@drawable/option_buttons"
+            android:text="Kayit Ol" />
+
+        <Button
+            android:id="@+id/btnkec"
+            android:textColor="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="150dp"
+            android:background="@drawable/option_buttons"
+            android:text="Geç" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "558102359239",
+    "firebase_url": "https://yemek-tarifleri-c0a59.firebaseio.com",
+    "project_id": "yemek-tarifleri-c0a59",
+    "storage_bucket": "yemek-tarifleri-c0a59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558102359239:android:408ed62d34535761abe2e2",
+        "android_client_info": {
+          "package_name": "devloper.game.yemekwebview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558102359239-qn8m7c1ktuasj04nipkm6opkl8l52spr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "devloper.game.yemekwebview",
+            "certificate_hash": "2f01989ee32098c7b6dc63ab731e83e2a9e7f1f9"
+          }
+        },
+        {
+          "client_id": "558102359239-g9596tbh8qcfu74vb56kejm040ngbstc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "devloper.game.yemekwebview",
+            "certificate_hash": "87e349892bea8167039372ff23522f4a9270945a"
+          }
+        },
+        {
+          "client_id": "558102359239-noejd0gorrbrtkoup5ar2bvi4vk6l2vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgKEVVpZdk8FcwLfzkuyRBciUAr5mg9c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558102359239-noejd0gorrbrtkoup5ar2bvi4vk6l2vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
